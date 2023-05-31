@@ -15,9 +15,9 @@ To use this website, simply navigate to https://okjay50.github.io/SEO-SITE/ in y
 # Technologies Used
 This website was built using the following technologies:
 
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 # Credits
 This website was created by Joseph DeMasse, a student at Michigan State University.
 # License
