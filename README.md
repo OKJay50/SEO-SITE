@@ -17,7 +17,6 @@ This website was built using the following technologies:
 
 * HTML
 * CSS
-* JavaScript
 # Credits
 This website was created by Joseph DeMasse, a student at Michigan State University.
 # License
